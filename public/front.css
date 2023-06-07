@@ -1,0 +1,156 @@
+.frontbody{
+ background-image: url(./images/background1.jpg) ;
+ background-repeat: no-repeat;
+ background-attachment: fixed;
+ background-size: 100% 100%;
+
+}
+body{
+    background-image: url(./images/back.jpg) ;
+   
+    height: 100%;
+
+    /* Center and scale the image nicely */
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  .Nlogo{
+    width:60px
+  }
+.navcontainer{
+font-weight: 500;
+font-size: 25px;
+}
+.nav-link:hover{
+text-decoration: underline;
+}
+
+
+input{
+    width: 90%;
+    border: none;
+    padding: 10px;
+    line-height: 20px;
+  }
+
+  .form_submit{
+    border: 2px solid blue;
+    width: 256px;
+    border-radius: 20px;
+    background-color: blue;
+    color: white;
+} 
+.container1{
+    text-align: center;
+    font-size: 20px;
+    color: white;
+
+
+}
+.container1 img{
+    width: 100px;
+    height: 100px;
+    margin-bottom: -20px;
+}
+.container2{
+    text-align: center;
+    margin: 50px;
+}
+.container2 img{
+    width: 100px;
+    height: 100px;
+border-radius: 100%;
+}
+.container3{
+    text-align: center;
+}
+input{
+    
+    padding: 11px;
+    margin: 5px;
+    border-radius: 35px;
+    width: 250px;
+    border: thin;
+    text-align: center;
+}
+ul li{
+   list-style-type: none;
+
+
+}
+
+.emp{
+    font-size: 20px;
+    font-weight: 600;
+    margin:10px;
+
+}
+.empi{
+    background-color: white;
+    border-radius: 10px;
+    margin: 50px;
+    padding: 20px;
+}
+.headin{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    
+}
+.slides{
+    height:420px;
+
+}
+.wcontainer{
+
+    margin: 40px;
+    margin-top: 50px;
+
+}
+
+#notfound .notfound{
+    position:absolute;
+    left:50%;
+    top:50%;
+   }
+   .notfound{
+    max-width:920px;
+    width:100%;
+    line-height:1.4;
+    text-align:center;
+    padding-left:15px;
+    padding-right:15px;
+   }
+   .notfound .notfound-404{
+    position: absolute;
+    height:100px;
+    top:0;
+    left:50%;
+    
+   }
+
+
+    .notfound h2{
+     font-family: "Maven Pro",sans-serif;
+     font-size: 16px;
+     color: #000;
+     font-weight: 400;
+     text-transform: uppercase;
+     margin-top: 15px;
+ 
+    }
+ 
+    .notfound p{
+     font-family: "Maven Pro",sans-serif;
+     font-size: 16px;
+     color:#000;
+     font-weight: 400;
+     text-transform: uppercase;
+     margin-top: 15px;
+ 
+ 
+    }
+ 
+    
+   
